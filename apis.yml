@@ -1,7 +1,12 @@
 aid: qep-resources
-url: https://raw.githubusercontent.com/api-evangelist/qep-resources/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/qep-resources/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.qep-resources.com
+description: >-
+  QEP Resources was an independent natural gas and crude oil exploration and production
+  company with operations in the United States before being acquired by Diamondback
+  Energy.
