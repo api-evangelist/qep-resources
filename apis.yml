@@ -1,10 +1,8 @@
 aid: qep-resources
 name: QEP Resources
-description: >-
-  QEP Resources was an independent natural gas and crude oil exploration and production
-  company headquartered in Denver, Colorado, with operations in the United States.
-  The company was acquired by Diamondback Energy in 2021 and no longer operates as
-  an independent entity.
+description: QEP Resources was an independent natural gas and crude oil exploration and production company
+  headquartered in Denver, Colorado, with operations in the United States. The company was acquired by
+  Diamondback Energy in 2021 and no longer operates as an independent entity.
 type: Index
 deliveryModel:
   model: unknown
@@ -30,32 +28,33 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/qep-resources.png
 tags:
-  - Defunct
-  - Energy
-  - Natural Gas
-  - Oil and Gas
-  - Fortune 1000
-url: >-
-  https://raw.githubusercontent.com/api-evangelist/qep-resources/refs/heads/main/apis.yml
+- Defunct
+- Energy
+- Natural Gas
+- Oil and Gas
+- Fortune 1000
+url: https://raw.githubusercontent.com/api-evangelist/qep-resources/refs/heads/main/apis.yml
 created: '2024-01-01'
-modified: '2026-04-28'
+modified: '2026-09-15'
 specificationVersion: '0.23'
 apis: []
 common:
-  - type: ParentCompany
-    url: https://apis.io/providers/diamondback-energy/
-    name: Diamondback Energy
-    x-relationship: acquired
-    x-evidence: "The company was acquired by Diamondback Energy in 2021 and no longer operates as an independent entity."
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/qep-resources-inc-
-  - type: Website
-    url: https://www.qep-resources.com
-  - type: Acquirer
-    url: https://www.diamondbackenergy.com
+- type: ParentCompany
+  url: https://apis.io/providers/diamondback-energy/
+  name: Diamondback Energy
+  x-relationship: acquired
+  x-evidence: The company was acquired by Diamondback Energy in 2021 and no longer operates as an independent
+    entity.
+- type: LinkedIn
+  url: https://www.linkedin.com/company/qep-resources-inc-
+- type: Website
+  url: https://www.qep-resources.com
+- type: Acquirer
+  url: https://www.diamondbackenergy.com
 maintainers:
-  - FN: Kin Lane
-    email: kin@apievangelist.com
+- FN: Kin Lane
+  email: kin@apievangelist.com
 x-parent: diamondback-energy
 x-relationship: acquisition
 x-acquired: 2021
+x-status: defunct
