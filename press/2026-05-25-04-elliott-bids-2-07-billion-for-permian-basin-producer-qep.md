@@ -1,7 +1,9 @@
 ---
 title: Elliott bids $2.07 billion for Permian Basin producer QEP ...
 url: https://www.reuters.com/article/business/elliott-bids-207-billion-for-permian-basin-producer-qep-resources-idUSKCN1P119G/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"QEP Resources" press release artificial intelligence'
 position: 4
 source: serpapi-google

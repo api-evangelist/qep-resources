@@ -1,7 +1,9 @@
 ---
 title: QEP Resources (QEP) Earnings Expected to Rise
 url: https://www.forbes.com/sites/narrativescience/2013/11/01/qep-resources-qep-earnings-expected-to-rise/
-date: '2026-05-25'
+published: '2013-11-01'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"QEP Resources" press release artificial intelligence'
 position: 5
 source: serpapi-google
