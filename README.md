@@ -1,4 +1,4 @@
-# QEP Resources (qep-resources)
+# QEP Resources
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,37 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
+
 QEP Resources was an independent natural gas and crude oil exploration and production company headquartered in Denver, Colorado, with operations in the United States. The company was acquired by Diamondback Energy in 2021 and no longer operates as an independent entity.
 
-**APIs.yml:** [apis.yml](apis.yml)
+**Areas:** Defunct · Energy · Natural Gas · Oil and Gas · Fortune 1000
 
-## Status
+## QEP Resources on APIs.io (historical record)
 
-This repository documents a defunct company. QEP Resources was acquired by Diamondback Energy in 2021. No active APIs or developer resources are available.
+Everything profiled for QEP Resources is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/qep-resources/](https://apis.io/providers/qep-resources/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+## Where to find this API
 
-- Defunct
-- Energy
-- Natural Gas
-- Oil and Gas
-
-## Timestamps
-
-- **Created:** 2024-01-01
-- **Modified:** 2026-04-28
-
-## APIs
-
-No APIs are available. QEP Resources is no longer an operating entity.
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.qep-resources.com)
-- [Acquirer (Diamondback Energy)](https://www.diamondbackenergy.com)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
 
-**Email:** kin@apievangelist.com
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for QEP Resources: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/qep-resources/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
